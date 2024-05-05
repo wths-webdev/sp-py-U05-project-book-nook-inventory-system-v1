@@ -108,3 +108,11 @@ There are 4 books in your inventory.
 3. My Hero Academia
 4. Fullmetal Alchemist
 ```
+## The menu
+print("\nWelcome to...\n"
+    "      ______ ______\n"
+    "    _/      Y      \\_\n"
+    "   // ~Book | ~~ ~  \\\n"
+    "  // ~ ~ ~~ |  Nook~ \\\n"
+    " //________.|.________\\\n"
+    "`----------`-'----------'\n")
